@@ -1,14 +1,16 @@
 BOOTSTRAP.scss
 =================
 
-bootstrap.scss is port from **bootstrap form twitter** for SCSS freaks.
+BOOTSTRAP.scss is port of **Twitter Bootstrap**'s LESS to SCSS. BOOTSTRAP.scss entirely ports Twitter Bootstrap.
 
-Just convart to LESS to SCSS.
-Every single idea and implementation form Twitter's Bootstrap.
+SCSS stands for "Sassy CSS". More info can be found at http://sass-lang.com/
 
-please see http://twitter.github.com/bootstrap and https://github.com/twitter/bootstrap/blob/master/README.md
+Twitter Bootstrap is a website layout kickstarter with nice layouts for just about anything you can think of.
+Please see the following for more info on Twitter Bootstrap:
++ http://twitter.github.com/bootstrap 
++ https://github.com/twitter/bootstrap/blob/master/README.md
 
-thanks.
+Thanks,
 
  **yuuki Najima**
  
