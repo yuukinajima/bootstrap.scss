@@ -3,8 +3,8 @@ BOOTSTRAP.scss
 
 bootstrap.scss is port from **bootstrap form twitter** for SCSS freaks.
 
-Just convart to LESS to SCSS.
-Every single idea and implementation form Twitter's Bootstrap.
+Just convert LESS to SCSS.
+Every single idea and implementation is from Twitter's Bootstrap.
 
 please see http://twitter.github.com/bootstrap and https://github.com/twitter/bootstrap/blob/master/README.md
 
@@ -14,8 +14,6 @@ thanks.
  
 + http://twitter.com/yuuki_n/
 + http://github.com/yuukinajima/bootstrap.scss/
-
-
 
 Copyright and License
 ---------------------
